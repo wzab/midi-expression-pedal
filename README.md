@@ -2,7 +2,7 @@ midi-expression-pedal
 =====================
 
 The project page with detailed description is available at:
-http://www.ise.pw.edu.pl/~wzab/MIDI/pedal/index.html
+http://wzab.cba.pl/STARE/MIDI/pedal/index.html
 
 The project is based on the V-USB-MIDI project:
 http://cryptomys.de/horo/V-USB-MIDI/index.html
