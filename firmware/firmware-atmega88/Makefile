@@ -42,7 +42,7 @@ CFLAGS += -Wall -DF_CPU=12000000UL -Os -fsigned-char  $(DEBUG)
 
 ## Assembly specific flags
 ASMFLAGS = $(COMMON)
-ASMFLAGS += -x assembler-with-cpp -Wa,
+ASMFLAGS += -x assembler-with-cpp 
 
 ## Linker flags
 LDFLAGS = $(COMMON)
